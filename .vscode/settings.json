@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
